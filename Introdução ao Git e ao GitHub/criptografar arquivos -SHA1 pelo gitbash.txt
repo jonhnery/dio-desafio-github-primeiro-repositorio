@@ -1,0 +1,4 @@
+$ openssl sha1 (nome arquivo).txt
+SHA1(nome arquivo)= 066bd7bbc1310a97906f9eb4edcc909d7723c42e (código criado)
+
+

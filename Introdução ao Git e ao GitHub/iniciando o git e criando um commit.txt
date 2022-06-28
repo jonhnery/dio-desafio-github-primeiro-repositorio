@@ -1,0 +1,32 @@
+git init - iniciar no repositorio da pasta criada
+
+ls -a - vê pagina oculta
+
+configurar conta git config --global user.email "jonatahnery@gmail.com"
+
+git config --global user.name jonhnery
+
+git add * ---------------> adicionou arquivo que o git não reconhecia para o Staged
+
+git commit -m "commit inicial" ------------> manda arquivo de Staged para o commit e vai para Unmodified
+
+
+------------------------------------------------------
+Untracked
+
+Tracked
+Unmodified não editado
+Modified editado
+Staged - preparado arquivo para commit
+
+commit volta para Unmodified
+
+----------------------
+git status - verifica como esta os arquivos na config acima
+
+
+----------------------------
+mv arquivo.extensao ./pasta/ -----------> move o arquivo para dentro da pasta
+
+
+

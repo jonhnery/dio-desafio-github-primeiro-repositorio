@@ -1,0 +1,11 @@
+COPIAR NO REPOSITORIO O CÓDIGO SSH DO MESMO
+
+
+ir no git bash
+adicionar o codigo da pasta
+
+/c/workspace/ssh-test (exemplo)
+
+depois executa
+ git clone (REPOSITORIO O CÓDIGO SSH DO MESMO)
+

@@ -1,0 +1,26 @@
+ssh-keygen -t ed25519 -C jonatahnery@gmail.com
+aperte enter e crie uma senha
+senha: jonh056351
+
+------------------------------------
+lista chave
+
+cd /c/Users/PC_JONH_E_MILA/.ssh/
+ls
+
+cat id_ed25519.pub - mostrar chave publica
+minha: ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIPTGRfLfcUAKCngVdNGAf6EnEG8jOkz3LPW7GWsWXlsD PC_JONH_E_MILA@DESKTOP-DDGANH9
+-----------------------------------------
+inclui a chave no github
+em SHD and GPG keys - em settings.
+-----------------------------------------
+iniciar SHD agent
+eval $(ssh-agent -s)
+
+entregar a chave ao agent
+ssh-add id_ed25519
+
+colocar senha
+
+configurado
+

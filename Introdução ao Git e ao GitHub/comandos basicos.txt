@@ -1,0 +1,10 @@
+windows
+
+cd - entra em pasta
+cd .. - volta pasta
+dir - mostra diretorios (pasta)
+mkdir - cria pasta
+cls - limpa tela 
+echo hello > hello.txt - cria arquivo dentro da pasta
+del (nome da pasta) - deleta arquivos da pasta
+rmdir (nome da pasta) - apaga a mesma
