@@ -1,0 +1,29 @@
+site que simula
+https://play.kotlinlang.org/
+
+Valor maximo 
+
+
+fun main() {
+    println(Int.MAX_VALUE)
+    println(Float.MAX_VALUE)
+    println(Double.MAX_VALUE)
+    println(Byte.MAX_VALUE)
+    }
+
+
+converter dados "to"  na frente do dado
+toByte()
+toShort()
+
+Declarar variável
+
+CamelCase - maiuscula e minuscula
+var (valor mutável)
+val (valor imutável)
+
+SNAKE_CASE - separado por _
+const val (Constante cujo valor é atribuido durante a compilação)
+
+
+
